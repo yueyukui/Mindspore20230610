@@ -1,0 +1,1 @@
+*.mindrecord filter=lfs diff=lfs merge=lfs -text
